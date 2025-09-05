@@ -39,4 +39,4 @@ Dataset Used:  Financial  dataset
 🔹 Which products have high sales but low profit margins?
 
 🖼 7. Screenshots / Demos
-Dashboard Image:
+Dashboard Image:https://github.com/VeenaMIsareddy/Financial-Dashboard/blob/main/financial%20dashboard%20snapshot.png
